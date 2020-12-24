@@ -1,0 +1,7 @@
+    username     password
+    hadi        sungai depan
+    naruto      sungai depan1
+
+gmail smtp
+    webblg24@gmail.com  balonggarut 
+    security--->less secure app----> on
